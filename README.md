@@ -1,6 +1,6 @@
 ### Hello World, I'm Nishant  👋
 
- <img align="right" alt="GIF" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/NishantGif.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/NishantGif.gif" width="500" height="320" />
 
 
 ## I'm a Software Engineer !!
@@ -17,27 +17,27 @@
 
 ### Certications:
 
-<img align="left" alt="Platform Developer 1" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/Platform%20Developer1.png" />
-<img align="left" alt="Platform Developer 2" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/Platform-Developer-II.png" />
-<img align="left" alt="Salesforce Administrator" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/SalesforceAdministartor.png" />
-<img align="left" alt="Salesforce App Builder" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/SalesforceAppBuilder.png" />
-<img align="left" alt="Salesforce Service Cloud Consultant" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/ServiceCloud.png" />
-<img align="left" alt="Salesforce CPQ" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/SalesforceCCPQspecialist.png" />
+<img align="left" alt="Platform Developer 1" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/Platform%20Developer1.png" />
+<img align="left" alt="Platform Developer 2" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/Platform-Developer-II.png" />
+<img align="left" alt="Salesforce Administrator" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/SalesforceAdministartor.png" />
+<img align="left" alt="Salesforce App Builder" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/SalesforceAppBuilder.png" />
+<img align="left" alt="Salesforce Service Cloud Consultant" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/ServiceCloud.png" />
+<img align="left" alt="Salesforce CPQ" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/SalesforceCCPQspecialist.png" />
 <br />
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Salesforce" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/SaleforceLogo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/react.png" />
+<img align="left" alt="Salesforce" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/SaleforceLogo.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/react.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/docker.png"/>
-<img align="left" alt="Github Actions" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/Assets/blob/main/download.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/github.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/docker.png"/>
+<img align="left" alt="Github Actions" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/download.png"/>
 <br />
 <br />
 
