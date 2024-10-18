@@ -1,4 +1,4 @@
-### Hello World, I'm Nishant  👋
+# Hello World, I'm Nishant  👋
 
  <img align="right" alt="GIF" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/NishantGif.gif" width="500" height="320" />
 
