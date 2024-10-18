@@ -1,18 +1,19 @@
 # Hello World, I'm Nishant  👋
 
  <img align="right" alt="GIF" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/NishantGif.gif" width="500" height="320" />
-
+<br />
 
 ## I'm a Software Engineer !!
+
 - 🔭 I’m currently working as Principal Application Engineer
 - 🌱 I’m currently learning Docker Containerization with Salesforce DX
 - 💬 Ask me about ... Food and Anything
 - ⚡ Fun fact: I love dancing,Travelling...
-
+<br />
 
 ### Talk with me, I am kinda awesome:
+
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 <br />
 
 ### Certications:
@@ -23,7 +24,6 @@
 <img align="left" alt="Salesforce App Builder" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/SalesforceAppBuilder.png" />
 <img align="left" alt="Salesforce Service Cloud Consultant" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/ServiceCloud.png" />
 <img align="left" alt="Salesforce CPQ" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/SalesforceCCPQspecialist.png" />
-<br />
 <br />
 
 ### Languages and Tools:
