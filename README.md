@@ -34,7 +34,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/react.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/git.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/docker.png"/>
 <img align="left" alt="Github Actions" width="26px" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/download.png"/>
