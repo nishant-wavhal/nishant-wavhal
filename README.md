@@ -42,12 +42,6 @@
 <br />
 
 
-### 
-
-<img align="left" alt="Nishant's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-wavhal" />
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/nishant-w-0a8525110/
 
