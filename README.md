@@ -3,9 +3,9 @@
  <img align="right" alt="GIF" src="https://github.com/nishant-wavhal/nishant-wavhal/blob/main/Assets/NishantGif.gif" width="500" height="320" />
 <br />
 
-## I'm a Software Engineer !!
+## I'm a Human !!
 
-- 🔭 I’m currently working as Principal Application Engineer
+- 🔭 I’m currently working as Everything within my control
 - 🌱 I’m currently learning
   - Event-Driven Architecture
   - CQRS
