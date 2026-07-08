@@ -6,7 +6,15 @@
 ## I'm a Software Engineer !!
 
 - 🔭 I’m currently working as Principal Application Engineer
-- 🌱 I’m currently learning Docker Containerization with Salesforce DX
+- 🌱 I’m currently learning
+  - Event-Driven Architecture
+  - CQRS
+  - Kafka Integration
+  - Outbox Reliability
+  - Resilience Foundations
+  - Observability Foundations
+  - Saga Readiness
+  - Distributed Systems Design
 - 💬 Ask me about ... Food and Anything
 - ⚡ Fun fact: I love dancing,Travelling...
 <br />
