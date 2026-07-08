@@ -5,7 +5,7 @@
 
 ## I'm a Human !!
 
-- 🔭 I’m currently working as Everything within my control
+- 🔭 I’m currently working on Everything within my control.
 - 🌱 I’m currently learning
   - Event-Driven Architecture
   - CQRS
